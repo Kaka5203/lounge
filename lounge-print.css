@@ -124,4 +124,9 @@ background-repeat: repeat-x;
 #elixirs{
   line-height: 1;
 }
-
+.cd{
+  font-style: italic;
+}
+.artist{
+  font-weight: bold;
+}
