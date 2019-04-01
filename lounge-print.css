@@ -40,6 +40,7 @@ h2 {
   border: thin double #007e7e;
   text-align: center; 
   font-size: 80%;
+  float: right;
 }
 
 #elixirs a:link { color: #007e7e;}
@@ -111,6 +112,7 @@ margin-left:20px;
 text-align: center;
 background-image: url(images/cocktail.gif);
 background-repeat: repeat-x;
+
 }
 #elixirs h2{
   color: black;
@@ -130,3 +132,5 @@ background-repeat: repeat-x;
 .artist{
   font-weight: bold;
 }
+
+
